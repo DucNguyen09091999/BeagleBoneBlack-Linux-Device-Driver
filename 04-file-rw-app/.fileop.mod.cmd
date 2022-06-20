@@ -1,1 +1,0 @@
-cmd_/home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/04-file-rw-app/fileop.mod := { echo  /home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/04-file-rw-app/fileop.o;  echo; } > /home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/04-file-rw-app/fileop.mod
