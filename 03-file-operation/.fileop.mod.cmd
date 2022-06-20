@@ -1,0 +1,1 @@
+cmd_/home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/03-file-operation/fileop.mod := { echo  /home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/03-file-operation/fileop.o;  echo; } > /home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/03-file-operation/fileop.mod

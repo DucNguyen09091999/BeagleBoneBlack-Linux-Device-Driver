@@ -1,0 +1,1 @@
+cmd_/home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/00-hello-world-lkm/hello.mod := { echo  /home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/00-hello-world-lkm/hello.o;  echo; } > /home/ducnguyen/Working-Space/BeagleBoneBlack-Linux-Device-Driver/00-hello-world-lkm/hello.mod
